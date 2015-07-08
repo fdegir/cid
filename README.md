@@ -1,0 +1,2 @@
+# cid
+Dockerized CI sandbox
