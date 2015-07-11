@@ -1,2 +1,2 @@
 # cid
-Dockerized CI sandbox
+Dockerized CI sandbox with usual CI tools enabled.
